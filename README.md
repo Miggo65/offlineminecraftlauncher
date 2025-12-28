@@ -10,6 +10,9 @@
   <br><br>
   <a href="https://github.com/antunnitraj/OfflineMinecraftLauncher/releases/latest"><img src="https://img.shields.io/badge/Download-Windows_Installer-50fa7b?style=for-the-badge&logo=windows"></a>
   <a href="https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass"><img src="https://img.shields.io/badge/Prism_Launcher_Mod-Custom_Bypass-ff79c6?style=for-the-badge"></a>
+  <br>
+  <a href="SECURITY_AUDIT.md"><img src="https://img.shields.io/badge/Security-Audited_✓-brightgreen?style=for-the-badge&logo=security"></a>
+  <a href="SECURITY.md"><img src="https://img.shields.io/badge/Security-Policy-blue?style=for-the-badge&logo=shield"></a>
 
 </div>
 
@@ -26,3 +29,23 @@
 
 ## Want More Customization?
 Try the enhanced offline experience with Prism Launcher using my [Prism Launcher Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass)
+
+## Security
+
+**🔒 Security Status: VERIFIED SAFE**
+
+This project has undergone a comprehensive security audit. Key findings:
+- ✅ No backdoors or malicious content detected
+- ✅ No data collection or telemetry
+- ✅ Uses trusted, open-source libraries
+- ✅ Transparent, auditable code
+
+For detailed security information:
+- [Security Audit Report](SECURITY_AUDIT.md) - Complete security analysis
+- [Security Policy](SECURITY.md) - Vulnerability reporting and best practices
+
+**Important Notes:**
+- Only download from official GitHub releases (see links above)
+- Original project by [antunnitraj](https://github.com/antunnitraj/OfflineMinecraftLauncher)
+- This launcher is for offline/educational use only
+- Requires a legitimate copy of Minecraft
