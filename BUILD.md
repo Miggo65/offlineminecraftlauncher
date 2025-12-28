@@ -33,6 +33,8 @@ This guide will help you build the Offline Minecraft Launcher from source code. 
 
 ## Building the Application
 
+> **Note:** This guide is for building this fork of the Offline Minecraft Launcher. While the original project was created by [antunnitraj](https://github.com/antunnitraj/OfflineMinecraftLauncher), this documentation applies to the current repository.
+
 ### Method 1: Using Visual Studio (GUI)
 
 1. **Clone the Repository**
@@ -173,7 +175,7 @@ Before building, you can:
 
 ### Safe Build Practices
 
-- Only clone from the official repository: https://github.com/Miggo65/offlineminecraftlauncher
+- Clone from this repository: https://github.com/Miggo65/offlineminecraftlauncher
 - Verify NuGet packages are downloaded from official NuGet.org
 - Build in a clean environment
 - Use official Microsoft tools (Visual Studio, .NET SDK)
