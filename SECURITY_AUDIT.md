@@ -87,7 +87,7 @@ var session = MSession.CreateOfflineSession(usernameInput.Text);
 session.UUID = _playerUuid;
 ```
 - **Purpose**: Creates offline Minecraft session (standard offline mode)
-- **UUID Generation**: Uses MD5 hash of "OfflinePlayer:" + username (Minecraft standard)
+- **UUID Generation**: Uses UUID v3 (RFC 4122) with MD5 hash of "OfflinePlayer:" + username (Minecraft standard implementation)
 - **No credentials**: No passwords, tokens, or authentication data collected
 - **Risk Level**: ✅ LOW - Standard Minecraft offline mode implementation
 
