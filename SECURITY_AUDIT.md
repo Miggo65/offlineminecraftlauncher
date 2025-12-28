@@ -143,8 +143,10 @@ Properties.Settings.Default.Save();
 
 - Recent commit: "Correct badge links in README.md"
 - No suspicious commits or history manipulation
-- Repository: https://github.com/Miggo65/offlineminecraftlauncher
+- Original Repository: https://github.com/antunnitraj/OfflineMinecraftLauncher
+- This Fork: https://github.com/Miggo65/offlineminecraftlauncher
 - Open source with visible history
+- Original author: Antun Nitraj
 
 ---
 
@@ -187,7 +189,9 @@ Properties.Settings.Default.Save();
 
 ### For Users:
 1. ✅ **Safe to download and use** - No malicious content detected
-2. ✅ Download from official GitHub releases only
+2. ✅ Download from official GitHub releases:
+   - Original project: https://github.com/antunnitraj/OfflineMinecraftLauncher
+   - This fork: https://github.com/Miggo65/offlineminecraftlauncher
 3. ⚠️ Ensure you have a legitimate copy of Minecraft
 4. ⚠️ Use only for offline/LAN gameplay or testing
 5. ✅ Keep Windows Defender or antivirus enabled (standard practice)
@@ -218,7 +222,9 @@ The Offline Minecraft Launcher is a legitimate, open-source application that doe
 - It's designed for offline/LAN gameplay
 - Users should own a legitimate copy of Minecraft
 - It cannot connect to official Minecraft servers (only offline/custom servers)
-- Download only from the official GitHub repository
+- Download from official sources:
+  - Original project: https://github.com/antunnitraj/OfflineMinecraftLauncher
+  - This fork: https://github.com/Miggo65/offlineminecraftlauncher
 
 ### Trust Score: 9/10
 - **Code Quality**: Clean, well-structured

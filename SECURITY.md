@@ -33,8 +33,9 @@ The security of Offline Minecraft Launcher is important to us. If you discover a
 ### Security Best Practices for Users
 
 1. **Download from Official Sources Only**
-   - Only download releases from the official GitHub repository
-   - Verify the repository URL: `https://github.com/Miggo65/offlineminecraftlauncher`
+   - Only download releases from official GitHub repositories:
+     - Original project: `https://github.com/antunnitraj/OfflineMinecraftLauncher`
+     - This fork: `https://github.com/Miggo65/offlineminecraftlauncher`
 
 2. **Keep Software Updated**
    - Always use the latest version

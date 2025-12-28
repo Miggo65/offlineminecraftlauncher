@@ -45,6 +45,7 @@ For detailed security information:
 - [Security Policy](SECURITY.md) - Vulnerability reporting and best practices
 
 **Important Notes:**
-- Only download from official GitHub releases
+- Only download from official GitHub releases (see links above)
+- Original project by [antunnitraj](https://github.com/antunnitraj/OfflineMinecraftLauncher)
 - This launcher is for offline/educational use only
 - Requires a legitimate copy of Minecraft
